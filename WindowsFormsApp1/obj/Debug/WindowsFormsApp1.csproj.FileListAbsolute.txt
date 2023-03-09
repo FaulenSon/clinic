@@ -1,0 +1,51 @@
+C:\Временные\medical_organizer-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Временные\medical_organizer-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Временные\medical_organizer-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Временные\medical_organizer-master\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Временные\medical_organizer-master\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Временные\medical_organizer-master\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Временные\medical_organizer-master\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddPatient.resources
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddDoctor.resources
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMeet.resources
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.InitialCreate.resources
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration.resources
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration1.resources
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration2.resources
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration3.resources
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration4.resources
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration5.resources
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration6.resources
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Временные\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\Регистратура.exe.config
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\Регистратура.exe
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\Регистратура.pdb
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddPatient.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddDoctor.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMeet.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.InitialCreate.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration1.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration2.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration3.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration4.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration5.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration6.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\Registratura.Properties.Resources.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\Регистратура.exe
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\Регистратура.pdb

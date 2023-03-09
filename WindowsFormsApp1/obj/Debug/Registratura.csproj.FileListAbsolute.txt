@@ -1,0 +1,78 @@
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\Регистратура.exe.config
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\Регистратура.exe
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\Регистратура.pdb
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\Registratura.csprojAssemblyReference.cache
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddPatient.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddDoctor.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMeet.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.InitialCreate.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration1.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration2.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration3.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration4.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration5.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration6.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\Registratura.Properties.Resources.resources
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\Registratura.csproj.GenerateResource.cache
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\Registratura.csproj.CoreCompileInputs.cache
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\Registratura.csproj.CopyComplete
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\Регистратура.exe
+C:\Курсовой ОАИП\medical_organizer-master\WindowsFormsApp1\obj\Debug\Регистратура.pdb
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\Регистратура.exe.config
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\Регистратура.exe
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\Регистратура.pdb
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Registratura.csprojAssemblyReference.cache
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddPatient.resources
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddDoctor.resources
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMeet.resources
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.InitialCreate.resources
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration.resources
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration1.resources
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration2.resources
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration3.resources
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration4.resources
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration5.resources
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration6.resources
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Registratura.Properties.Resources.resources
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Registratura.csproj.GenerateResource.cache
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Registratura.csproj.CoreCompileInputs.cache
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Registratura.csproj.CopyComplete
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Регистратура.exe
+C:\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Регистратура.pdb
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\Регистратура.exe.config
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\Регистратура.exe
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\Регистратура.pdb
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Registratura.csproj.AssemblyReference.cache
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddPatient.resources
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddDoctor.resources
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMeet.resources
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.InitialCreate.resources
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration.resources
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration1.resources
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration2.resources
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration3.resources
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration4.resources
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration5.resources
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AddCompanyMigration6.resources
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Registratura.Properties.Resources.resources
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Registratura.csproj.GenerateResource.cache
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Registratura.csproj.CoreCompileInputs.cache
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Registratura.csproj.CopyComplete
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Регистратура.exe
+E:\Стас скинуть\Курсовой ОАИП\Курсовой ОАИП\Registratura\WindowsFormsApp1\obj\Debug\Регистратура.pdb
